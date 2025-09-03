@@ -29,7 +29,7 @@ Each report captures weather conditions, contractor work hours, equipment usage,
 
 | Safety & Observations | Photo Attachment |
 |------------------------|------------------|
-| ![](docs/screenshots/safety-evaluation.png) | ![](docs/screenshots/attached-photos.png) |
+| ![](docs/screenshots/MainPageApp.png) | ![](docs/screenshots/attached-photos.png) |
 
 ---
 
