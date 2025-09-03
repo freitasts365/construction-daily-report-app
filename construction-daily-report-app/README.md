@@ -25,7 +25,7 @@ Each report captures weather conditions, contractor work hours, equipment usage,
 
 | Weather and Work Logs                     | QA & Subcontractor Input                      | Work Performance Form               |
 | ----------------------------------------- | --------------------------------------------- | ----------------------------------- |
-| ![](docs/screenshots/weather-summary.png) | ![](docs/screenshots/subcontractor-entry.png) | ![](docs/screenshots/work-form.png) |
+| ![](docs/screenshots/MainPageApp.png) | ![](docs/screenshots/subcontractor-entry.png) | ![](docs/screenshots/work-form.png) |
 
 | Safety & Observations                       | Photo Attachment                          |
 | ------------------------------------------- | ----------------------------------------- |
@@ -56,13 +56,13 @@ construction-daily-report-app/
 ├── README.md
 ├── Microsoft.PowerApps/
 │   └── DailyReport.msapp
-├── Microsoft.Flow/
-│   └── ReportToPDFFlow.json
 ├── docs/
 │   └── screenshots/
-│       ├── weather-summary.png
-│       ├── subcontractor-entry.png
-│       ├── work-form.png
-│       ├── safety-evaluation.png
-│       └── attached-photos.png
+│       ├── AttachedPictures.png
+│       ├── GenInfoPage.png
+│       ├── MainPageApp.png
+│       ├── PDF_Page1.png
+│       ├── PDFPag2.png
+│       ├── SubmitalsReviewPage.png
+│       └── WorkPerfomancePage.png
 ```
