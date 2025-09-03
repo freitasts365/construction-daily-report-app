@@ -25,11 +25,11 @@ Each report captures weather conditions, contractor work hours, equipment usage,
 
 | Weather and Work Logs                     | QA & Subcontractor Input                      | Work Performance Form               |
 | ----------------------------------------- | --------------------------------------------- | ----------------------------------- |
-| ![](docs/screenshots/MainPageApp.png) | ![](docs/screenshots/subcontractor-entry.png) | ![](docs/screenshots/work-form.png) |
+| ![](docs/screenshots/GenInfoPage.png) | ![](docs/screenshots/WorkPerfomancePage.png) | ![](docs/screenshots/SubmitalsReviewPage.png) |
 
 | Safety & Observations                       | Photo Attachment                          |
 | ------------------------------------------- | ----------------------------------------- |
-| ![](docs/screenshots/safety-evaluation.png) | ![](docs/screenshots/attached-photos.png) |
+| ![](docs/screenshots/safety-evaluation.png) | ![](docs/screenshots/AttachedPictures.png) |
 
 ---
 
