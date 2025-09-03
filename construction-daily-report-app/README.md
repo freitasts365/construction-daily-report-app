@@ -65,4 +65,19 @@ construction-daily-report-app/
 │       ├── PDFPag2.png
 │       ├── SubmitalsReviewPage.png
 │       └── WorkPerfomancePage.png
+
+
+👤 Author
+
+Developed by Tiago Freitas
+
+💼 Power Platform & .NET Developer | 15+ years of experience in government & enterprise digital solutions
+
+📂 More projects: https://github.com/freitasts365
+
+📄 License
+
+This solution is provided for learning, demonstration, and internal project tracking use.
+Feel free to adapt and scale it for your organization’s construction oversight workflows.
+
 ```
