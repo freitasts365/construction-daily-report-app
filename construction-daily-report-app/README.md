@@ -27,9 +27,9 @@ Each report captures weather conditions, contractor work hours, equipment usage,
 | ----------------------------------------- | --------------------------------------------- | ----------------------------------- |
 | ![](docs/screenshots/GenInfoPage.png) | ![](docs/screenshots/WorkPerfomancePage.png) | ![](docs/screenshots/SubmitalsReviewPage.png) |
 
-| Safety & Observations                       | Photo Attachment                          |
-| ------------------------------------------- | ----------------------------------------- |
-| ![](docs/screenshots/safety-evaluation.png) | ![](docs/screenshots/AttachedPictures.png) |
+|  Photo Attachment                           | PDF Page 1                                | PDF Page 1                                |
+| ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| ![](docs/screenshots/AttachedPictures.png) | ![](docs/screenshots/PDF_Page1.png)| ![](docs/screenshots/PDFPag2.png)|
 
 ---
 
