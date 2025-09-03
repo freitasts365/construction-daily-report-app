@@ -66,6 +66,7 @@ construction-daily-report-app/
 │       ├── SubmitalsReviewPage.png
 │       └── WorkPerfomancePage.png
 
+```
 
 👤 Author
 
@@ -80,4 +81,3 @@ Developed by Tiago Freitas
 This solution is provided for learning, demonstration, and internal project tracking use.
 Feel free to adapt and scale it for your organization’s construction oversight workflows.
 
-```
