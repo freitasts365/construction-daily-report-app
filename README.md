@@ -25,7 +25,7 @@ Each report captures weather conditions, contractor work hours, equipment usage,
 
 | Weather and Work Logs                     | QA & Subcontractor Input                      | Work Performance Form               |
 | ----------------------------------------- | --------------------------------------------- | ----------------------------------- |
-| ![](docs/screenshots/GenInfoPage.png) | ![](docs/screenshots/WorkPerfomancePage.png) | ![](docs/screenshots/SubmitalsReviewPage.png) |
+| ![](construction-daily-report-app/tree/main/construction-daily-report-app/docs/screenshots/GenInfoPage.png) | ![](docs/screenshots/WorkPerfomancePage.png) | ![](docs/screenshots/SubmitalsReviewPage.png) |
 
 |  Photo Attachment                           | PDF Page 1                                | PDF Page 1                                |
 | ------------------------------------------- | ----------------------------------------- | ----------------------------------------- |
